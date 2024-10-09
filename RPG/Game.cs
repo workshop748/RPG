@@ -31,7 +31,7 @@ namespace RPG {
         private static void Main() {
 
             // Start game from the Main method
-
+            Console.WriteLine("Test");
         }
     }
 }
